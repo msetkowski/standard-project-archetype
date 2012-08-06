@@ -1,0 +1,1 @@
+simple base project's archetype  with java configured for 1.6 and encoding to utf-8
